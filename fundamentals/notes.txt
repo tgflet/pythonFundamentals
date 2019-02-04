@@ -1,0 +1,18 @@
+Python is from 1991; a mature language
+
+"function" is replaced by "def"
+
+indentation is super important in python, no curly braces
+
+console.log is replaced by "print()"
+
+why 3.6 instead of 2.7
+the changes are minimal, but support for 2.7 ends in 2020.
+
+Python runs on the server in a basic webpage
+We will learn both Flask and Django, either is okay for the belt exam
+On the server, Python (specifically the Flask microframework, or the Django framework) will handle the logic of what to do with the http request
+
+do not need 'var' in python
+
+arrays are called "lists" in python
